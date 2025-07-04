@@ -1,0 +1,7 @@
+numpy 
+opencv-python 
+pillow 
+pytesseract 
+PyWavelets
+matplotlib
+scikit-image
